@@ -1,0 +1,37 @@
+# 深度学习框架
+torch>=1.8.0
+torchvision>=0.9.0
+torchaudio>=0.8.0
+
+# 计算机视觉和NLP
+fvcore
+pycocotools
+spacy>=3.0.0
+transformers>=4.20.0
+Pillow>=8.0.0
+opencv-python>=4.5.0
+
+# 数据处理
+omegaconf
+cloudpickle
+numpy>=1.19.0
+pandas>=1.2.0
+scikit-learn>=0.24.0
+
+# 图数据库
+neo4j>=4.0.0
+networkx>=2.5
+
+# Web框架
+flask>=2.0.0
+flask-cors>=3.0.10
+
+# 其他工具
+tensorboard
+jsonlines
+json_lines
+requests>=2.25.0
+python-dotenv>=0.19.0
+tqdm>=4.50.0
+pyyaml>=5.3.0
+
